@@ -1,2 +1,2 @@
 # Irish-Brigades-History
-Essay about the Irish Brigade during the Civil War
+A small website about the Irish Brigade That served the North during the U.S. Civil War
