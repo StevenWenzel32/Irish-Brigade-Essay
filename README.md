@@ -1,2 +1,2 @@
-# Irish-Brigade-Essay
-A small essay about the Irish Brigade That served the North during the U.S. Civil War
+# Irish Brigade: Who Where They?
+A compilation of information about the Irish Brigade. Currently covering their involvement in the U.S. Civil War. Made in 2018.
